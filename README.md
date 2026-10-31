@@ -9,7 +9,7 @@
   </p>
 
   <p>
-    <a href="https://msrikavya8.github.io/portfolio/"><strong>View Live Website »</strong></a>
+    <a href="https://sensational-crepe-a37547.netlify.app"><strong>View Live Website »</strong></a>
   </p>
 
   <p>
