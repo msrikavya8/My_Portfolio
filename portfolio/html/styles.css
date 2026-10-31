@@ -1,0 +1,79 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 2ex;
+}
+header {
+    background-color: #333;
+    color: #fff;
+    padding: 5%;
+}
+
+ nav ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: space-between;
+}
+
+nav li {
+    margin-right: 20px;
+}
+
+nav a {
+    color: #fff;
+    text-decoration:underline;
+    transition: color 0.3s ease-in-out;
+}
+  a : link, a:visited {
+    color: white;
+    border : 2px solidcolored;
+    padding : 2 em
+    text-align : center;
+    text-decoration : none;
+    display: inline-block;
+  }
+
+
+a:hover,a:active {
+    color:red;
+    background-color: lightblue;
+}
+section {
+    padding: 2em;
+}
+main{
+    margin-bottom: 2em;
+    color: blue;
+    background-color: aqua;
+    border-radius: 10px;
+    padding: 2em;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+h1{
+    color:black;
+}
+
+#aboutme{
+display:block;
+}
+
+#studystatus{
+    display:block;
+}
+#projects{
+    display:block;
+
+}
+#contact{
+    display:block;
+}
+footer {
+    background-color:rgb(8, 2, 2);
+    color: #fff;
+    padding: 1em;
+    text-align: center;
+    clear: both;
+}
+
